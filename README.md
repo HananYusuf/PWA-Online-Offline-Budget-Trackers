@@ -18,7 +18,7 @@ This is a Budget Tracker application that allows users to add expenses and depos
 The program uses HTML, CSS, Bootstrap, JavaScript, MongoDB, Mongoose schema, NodeJS and Express.
 
 ## Usage
-To run this application locally, install the dependencies by running `npm install` in your terminal. Run `node server.js` on your terminal to start the server and follow the link or open it on your browser to view the application on your computer(locally). The application running on Heroku can be found [Here]()
+To run this application locally, install the dependencies by running `npm install` in your terminal. Run `node server.js` on your terminal to start the server and follow the link or open it on your browser to view the application on your computer(locally). The application running on Heroku can be found [Here](https://evening-mountain-94910.herokuapp.com/)
 
 ![](assets/img.png)
 
